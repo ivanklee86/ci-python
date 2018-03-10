@@ -19,5 +19,5 @@ docker run -it -d --rm --name cp ci-python:latest
 
 Then:
 ```
-docker exec -it cm sh
+docker exec -it cp sh
 ```
